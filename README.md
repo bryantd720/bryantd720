@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/bryantd720/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/bryantd720/azure-network-protocols)
 - <b>Virtual Private Networks</b>
-  - [Configuring Virtual Private Network Client within Azure VM](https://github.com/bryantd720/azure-network-protocols)
+  - [Configuring Virtual Private Network Client within Azure VM](https://github.com/bryantd720/without-vpn-test)
   - [Testing Virtual Private Network Client within Azure VM](https://github.com/bryantd720/azure-network-protocols)
 
 <h2>Connect with me:</h2>
